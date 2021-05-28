@@ -1,0 +1,2 @@
+# ctb
+My own tradingbot.
